@@ -1,0 +1,28 @@
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.dll.config
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.pdb
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.Migrations.Initial.resources
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.csproj.GenerateResource.Cache
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.pdb
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.dll.config
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.dll
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Persistencia.pdb
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.Migrations.Initial.resources
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.csproj.GenerateResource.Cache
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.dll
+C:\Users\danilo\visual studio workspace\repos\2010215615-LC2\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.pdb

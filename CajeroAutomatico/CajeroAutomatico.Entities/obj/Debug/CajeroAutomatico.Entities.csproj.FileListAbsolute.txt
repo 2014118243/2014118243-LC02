@@ -1,0 +1,4 @@
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+C:\Users\danilo\visual studio workspace\proyectos\Nueva version 10-06-2017\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb

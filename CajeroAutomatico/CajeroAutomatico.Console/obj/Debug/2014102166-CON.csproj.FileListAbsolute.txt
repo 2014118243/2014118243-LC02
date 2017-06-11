@@ -1,0 +1,8 @@
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\bin\Debug\2014102166-CON.exe.config
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\bin\Debug\2014102166-CON.exe
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\bin\Debug\2014102166-CON.pdb
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\bin\Debug\2014102166-ENT.dll
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\bin\Debug\2014102166-ENT.pdb
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\obj\Debug\2014102166-CON.csprojResolveAssemblyReference.cache
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\obj\Debug\2014102166-CON.exe
+C:\Users\danilo\visual studio workspace\repos\2014102166-LC2\CajeroAutomatico\CajeroAutomatico.Console\obj\Debug\2014102166-CON.pdb

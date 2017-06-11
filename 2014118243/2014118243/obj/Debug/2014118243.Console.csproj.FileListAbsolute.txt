@@ -1,6 +1,0 @@
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\obj\Debug\2014118243.Console.csprojResolveAssemblyReference.cache
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\obj\Debug\2014118243.exe
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\obj\Debug\2014118243.pdb
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\bin\Debug\2014118243.exe.config
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\bin\Debug\2014118243.exe
-C:\Users\622132\Documents\Visual Studio 2017\Projects\2014118243\2014118243\2014118243\bin\Debug\2014118243.pdb
