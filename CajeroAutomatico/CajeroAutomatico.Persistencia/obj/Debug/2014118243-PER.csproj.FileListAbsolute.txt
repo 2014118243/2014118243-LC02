@@ -1,0 +1,14 @@
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\2014118243-PER.dll.config
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\2014118243-PER.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\2014118243-PER.pdb
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\2014118243-ENT.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\2014118243-ENT.pdb
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\2014118243-PER.csprojResolveAssemblyReference.cache
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\CajeroAutomatico.Persistencia.Migrations.Initial.resources
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\2014118243-PER.csproj.GenerateResource.Cache
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\2014118243-PER.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Persistencia\obj\Debug\2014118243-PER.pdb

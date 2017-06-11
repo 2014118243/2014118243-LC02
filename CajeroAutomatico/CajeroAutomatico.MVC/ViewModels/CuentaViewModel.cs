@@ -16,11 +16,5 @@ namespace CajeroAutomatico.MVC.ViewModels
         public Cuenta Cuenta { get; set; }
 
 
-
-
-
-
-
-
     }
 }

@@ -1,0 +1,4 @@
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\2014118243-ENT.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\2014118243-ENT.pdb
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\2014118243-ENT.dll
+C:\Users\danilo\visual studio workspace\repos\2014118243-LC02\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\2014118243-ENT.pdb
